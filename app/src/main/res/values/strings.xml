@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">localetest</string>
+    <string name="helloworld_en_us">Hello User!</string>
+    <string name="helloworld_ph_tl">Kumusta Manggagamit!</string>
+    <string name="helloworld_ph_vi">Tirada, part?!</string>
+    <string name="do_en_us">What do you want to do?</string>
+    <string name="do_ph_tl">Ano ang gusto mong gawin?</string>
+    <string name="do_ph_vi">Bagay nalang ta part?</string>
+
+    <string-array name="language_selector">
+        <item>English</item>
+        <item>Filipino</item>
+        <item>Cebuano</item>
+    </string-array>
+
+
+</resources>
